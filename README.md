@@ -1,1 +1,1 @@
-![Uploading image.png…]()
+Kmeans from scratch.

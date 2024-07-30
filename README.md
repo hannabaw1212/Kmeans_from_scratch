@@ -40,3 +40,4 @@ The objective function $ J $ to be minimized is:
 $$
 J = \sum_{k=1}^K \sum_{x_i \in S_k} \| x_i - c_k \|^2
 $$
+
